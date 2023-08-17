@@ -6,7 +6,7 @@ It's an absolute pleasure to meet you. As a seasoned developer, I'm constantly h
 ## 🚀 About Me
 
 
-![Logo](https://cdna.artstation.com/p/assets/images/images/066/192/698/small/amirhosein-mardani-ilecy-fibbo-edited-min.jpg?1692280644)
+![Logo](./ILECY-fibbo-edited.min.cdn.png?raw=true)
 
 Allow me to introduce you to the heart of who I am—ILECY, my logo shaped like a heart. It's more than just a playful design; it embodies my very identity and the unwavering love I pour into every project. With ILECY, I bring forth a perfect fusion of friendliness and professionalism, infusing my work with a warm and inviting touch. It serves as a powerful symbol of my deep commitment to delivering exceptional results.
 
