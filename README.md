@@ -18,7 +18,7 @@ It's an absolute pleasure to meet you. As a seasoned developer, I'm constantly h
 
 [![discord](https://img.shields.io/badge/Discord-5663f0?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/982316719697719346)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com//ilecyAmir)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ilecyAmir)
 
 [![Instagram](https://img.shields.io/badge/instagram-fb1869?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amir.hmch/)
 
