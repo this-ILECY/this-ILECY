@@ -6,9 +6,7 @@ It's an absolute pleasure to meet you. As a seasoned developer, I'm constantly h
 ## 🚀 About Me
 
 
-![Logo](./ILECY-fibbo-edited.min.cdn.png?raw=true)
-
-Allow me to introduce you to the heart of who I am—ILECY, my logo shaped like a heart. It's more than just a playful design; it embodies my very identity and the unwavering love I pour into every project. With ILECY, I bring forth a perfect fusion of friendliness and professionalism, infusing my work with a warm and inviting touch. It serves as a powerful symbol of my deep commitment to delivering exceptional results.
+![Logo](./favicon.ico)Allow me to introduce you to the heart of who I am—ILECY, my logo shaped like a heart. It's more than just a playful design; it embodies my very identity and the unwavering love I pour into every project. With ILECY, I bring forth a perfect fusion of friendliness and professionalism, infusing my work with a warm and inviting touch. It serves as a powerful symbol of my deep commitment to delivering exceptional results.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/My_portfolio-2306f?style=for-the-badge&logo=kofi&logoColor=%231e1e1e&label=cyCV&labelColor=%23bebebe&color=%2306f
